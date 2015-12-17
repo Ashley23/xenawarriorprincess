@@ -1,0 +1,25 @@
+pwd - print working dircetory
+
+cd - change directory
+cd.. - parent directory
+
+mkdir - make directory
+
+nano - start Nano text editor
+Text editor: Nano, Pico, Emacs, Vi, Vim
+
+cat - shows content of file
+
+ls - list directory
+ls -l - long list
+
+rm - remove directory or file
+
+clear - clear screen
+
+mv - move or rename
+
+cp - copy
+
+touch - create or update file
+
